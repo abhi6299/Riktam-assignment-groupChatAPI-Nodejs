@@ -46,6 +46,7 @@ This feature provides APIs for managing user authentication, authorization, upda
     - Method: POST
     - Endpoint: `/api/user/register`
     - Description: Route for registering a new user.
+    - Screenshot: ![Screenshot (1086)](https://github.com/abhi6299/Riktam-assignment-groupChatAPI-Nodejs/assets/48280843/215087bd-9e65-48e6-b2b8-934d6219def9)
 
 2. **Login User**
     - Method: POST
