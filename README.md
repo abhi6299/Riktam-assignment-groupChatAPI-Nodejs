@@ -7,8 +7,8 @@ A simplified Backend API for a robust **Group Chat** facilitating seamless commu
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [PostMan Route](#postman)
 - [Contributing](#contributing)
-- [Screenshots](#screenshots)
 
 ## Installation
 1. Clone the directory
@@ -31,7 +31,7 @@ node index.js
 ```
 2. Open your browser:
 ```bash
-  Open the browser and go to http://localhost:3000 to view the running UI.
+  Open the browser and go to http://localhost:2100 to view the running UI.
 ```
 
 # Features
@@ -140,6 +140,12 @@ This feature provides APIs for managing Chat - add messages, delete messages, li
     - Endpoint: `/api/chat/search`
     - Description: Route for searching any user's chat in the group
     - Screenshot: ![Screenshot (1098)](https://github.com/abhi6299/Riktam-assignment-groupChatAPI-Nodejs/assets/48280843/c57342c0-fd2b-469f-a8a2-ddea8641376f)
+
+## Postman Collection Routes
+
+For more documentation on the above APIs including Authorization Token, body parameters to be passed, and different folders with different routes to implement the project, please visit the following link:
+
+[Postman Collection](https://www.postman.com/mission-saganist-17847365/workspace/riktam/collection/30566706-c6bf18f8-6291-48b5-ab71-424a41182495?action=share&creator=30566706)
 
 ## Contributing
 Kindly create a PR for any contribution or suggestions. Thanks!
