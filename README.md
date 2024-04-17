@@ -33,12 +33,12 @@ node index.js
 ```bash
   Open the browser and go to http://localhost:3000 to view the running UI.
 ```
-## Features
+# Features
 Different API have been created with different features which are as follows
 
-# User Management Feature
+## User Management Feature
 
-This feature provides APIs for managing user authentication and authorization in the application.
+This feature provides APIs for managing user authentication, authorization, updation of details in the application.
 
 ## API Endpoints
 
