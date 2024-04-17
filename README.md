@@ -64,10 +64,10 @@ This feature provides APIs for managing user authentication, authorization, and 
     - Screenshot: ![Screenshot (1100)](https://github.com/abhi6299/Riktam-assignment-groupChatAPI-Nodejs/assets/48280843/eb9dc38b-5f2f-4b23-bbf9-8ff81f372b3a)
 
 4. **Update User Details**
-    - Method: POST
+    - Method: PUT
     - Endpoint: `/api/user/update`
     - Description: Route to update details of an already registered user.
-    - Screenshot: ![Screenshot (1089)](https://github.com/abhi6299/Riktam-assignment-groupChatAPI-Nodejs/assets/48280843/4e2b50db-4379-4164-8d71-a352cd849dec)
+    - Screenshot: ![Screenshot (1101)](https://github.com/abhi6299/Riktam-assignment-groupChatAPI-Nodejs/assets/48280843/336c40b1-f543-4675-a719-f4babf667024)
 
 ## Group Management Feature
 
