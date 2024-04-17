@@ -17,7 +17,7 @@ userRouter.post('/login',(req,res,next)=>{
 userRouter.get('/logout',jwtAuth,blacklistedToken,(req,res,next)=>{
     userControl.logout(req,res,next);
 });
-//To update details of the already registered user
+//To update details of the alreadyregistered user
 userRouter.post('/update',jwtAuth,(req,res,next)=>{
     userControl.updateUserDetails(req,res,next);
 })

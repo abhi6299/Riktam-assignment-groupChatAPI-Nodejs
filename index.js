@@ -24,8 +24,3 @@ server.listen(2100,()=>{
     console.log("Server is listening on Port 2100!");
     connectUsingMongoose();
 })
-
-//Add validation check
-//Add comments + SS
-//Add explaination in mail -> tell what db used, git, postman, commetn ka documentation tell
-//Add proper github repo + Documentation
